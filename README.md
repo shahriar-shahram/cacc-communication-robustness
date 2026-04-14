@@ -57,7 +57,7 @@ However:
 ### Vehicle Model (Bicycle Model)
 
 <p align="center">
-  <img src="assets/diagrams/bicycle_model.png" width="600">
+  <img src="assets/diagrams/bicycle.jpg" width="600">
 </p>
 
 - Simplified dynamic model for control design
